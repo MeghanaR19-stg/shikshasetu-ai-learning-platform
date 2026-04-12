@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+data/chroma_db/
+data/processed_text/
+
+.env
+.DS_Store
